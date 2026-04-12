@@ -9,7 +9,7 @@ A collection of Jupyter notebooks created for self‑learning and hands‑on pra
 #### 1. Estimating Expected Probability of Default
 **Techniques used:** Logistic Regression, Decision Trees, Random Forest, XGBoost  
 **Description:**  
-Builds and compares multiple classification models to estimate the expected probability of default (PD). Includes model training, evaluation metrics, feature importance, and interpretation.
+Builds and compares multiple classification models to estimate the expected probability of default (PD). Includes model training, evaluation metrics and feature importance.
 
 ---
 
@@ -30,7 +30,7 @@ Creates interactive geographic visualizations using Plotly, demonstrating how to
 
 #### 4. Tariff Announcement (April 2025) — Exploratory Data Analysis
 **Description:**  
-Performs simple data analysis around the initial announcement of tariffs in April 2025. Includes descriptive statistics, time‑series inspection, and basic visualization to understand short‑term impacts.
+Performs simple data analysis around the initial announcement of tariffs in April 2025. Includes basic visualization.
 
 ---
 
