@@ -79,6 +79,6 @@ Includes event windows, abnormal return calculations, and regression modeling.
 ---
 
 ### 🎯 Purpose
-This repository documents my self‑learning journey in data science. Each notebook focuses on applying a specific method or concept to real or realistic datasets, emphasizing practical understanding over theoretical depth.
+This repository documents my self‑learning journey in data science. Each notebook focuses on applying a specific method or concept to real or realistic datasets, emphasizing practical understanding.
 
 
