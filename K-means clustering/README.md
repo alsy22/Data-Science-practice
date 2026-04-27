@@ -9,4 +9,15 @@ This folder contains the k‑means clustering analysis for identifying financial
 
 The analysis ultimately identifies five types of startups with distinct financial structures.
 
+### Folder Structure
+
+k-means/ <br>
+└── Kmeans_startup_types.ipynb  
+└── README.md
+
+### Workflow
+
+Data → Preprocessing → Scaling → K‑Means → Cluster Selection → Interpretation
+
 **Main file:** `Kmeans_startup_types.ipynb`
+
