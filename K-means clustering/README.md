@@ -11,7 +11,7 @@ The analysis ultimately identifies five types of startups with distinct financia
 
 ### Folder Structure
 
-k-means/ <br>
+K-means clustering/ <br>
 └── Kmeans_startup_types.ipynb  
 └── README.md
 
