@@ -1,6 +1,6 @@
-## Data Science Practice Notebooks (Python)
+## Data Science Portfolio (Python)
 
-A collection of Jupyter notebooks created for self‑learning and hands‑on practice in data science, machine learning, and applied analytics. Each notebook explores a specific method, model, or dataset, with a focus on practical implementation and interpretation.
+This portfolio showcases practical, end‑to‑end projects demonstrating skills in **Python**, **machine learning**, and **data analytics**.
 
 ---
 
